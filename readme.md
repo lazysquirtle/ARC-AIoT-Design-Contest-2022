@@ -13,10 +13,11 @@
 ## HW/SW Setup
 HW 
 >ARC AIoT EM9D DK + SHT31 + BM1383aglv + MPU9250 + OLED Display
-
 SW: 
 >Synopsys SDK v22.01
 
+## Video Link
+https://www.youtube.com/watch?v=sADGTDt3wns&ab_channel=Felix
+https://www.youtube.com/watch?v=eL_TOg97z54&ab_channel=Felix
 
-## User manual
-戴上口罩，按下板子的reset，等待預測結果顯示
+
