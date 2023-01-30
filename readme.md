@@ -13,6 +13,7 @@
 ## HW/SW Setup
 HW 
 >ARC AIoT EM9D DK + SHT31 + BM1383aglv + MPU9250 + OLED Display  
+
 SW: 
 >Synopsys SDK v22.01
 
