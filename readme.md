@@ -17,7 +17,7 @@ SW:
 >Synopsys SDK v22.01
 
 ## Video Link
-https://www.youtube.com/watch?v=sADGTDt3wns&ab_channel=Felix
+https://www.youtube.com/watch?v=sADGTDt3wns&ab_channel=Felix  
 https://www.youtube.com/watch?v=eL_TOg97z54&ab_channel=Felix
 
 
